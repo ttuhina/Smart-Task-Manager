@@ -1,3 +1,6 @@
+![Web page view](https://github.com/ttuhina/Smart-Task-Manager/blob/main/Screenshot%202024-07-11%20120128.png)
+
+
 # **Smart Task Manager**
 
 Smart Task Manager is a full-stack web application that helps users **organize and manage their tasks efficiently**. It provides a clean, intuitive interface for creating, viewing, and managing tasks.
